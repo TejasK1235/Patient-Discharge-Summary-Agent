@@ -22,8 +22,7 @@ data/*.pdf
 data/*.png
 data/*.jpg
 
-# Agent outputs — contain patient data
-outputs/
+
 
 # IDE
 .vscode/
